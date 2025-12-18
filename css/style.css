@@ -10,7 +10,7 @@ h1{
 
 /* Home Section */
 #home{
-    background-image: url(images/home-background.png);
+    background-image: url(/images/home-background.png);
     line-height: 1.5;
     color: #ffff;
     min-height: 100vh;
@@ -77,4 +77,5 @@ footer{
     background-color: black;
     color: white;
 }
+
 
